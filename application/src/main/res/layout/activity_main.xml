@@ -1,4 +1,4 @@
-?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -8,12 +8,12 @@
 
     android:background="@drawable/bordaestilos"
     android:clickable="true"
-    android:focusable="auto">
+    android:focusable="horizontal">
 
 <ImageButton
-    android:id="@+id/simpleImageButton"
+    android:id="@+id/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="#000"
-    android:src="@drawable/home"
+    android:background="#2B009A"
+    android:src="@drawable/android"
     android:padding="30dp"/><!-- set 30dp padding from all the sides of the view-->
