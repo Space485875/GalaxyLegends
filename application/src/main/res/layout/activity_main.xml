@@ -17,3 +17,6 @@
     android:background="#2B009A"
     android:src="@drawable/android"
     android:padding="30dp"/><!-- set 30dp padding from all the sides of the view-->
+    
+ 
+<android.support.constraint.ConstraintLayout/>
